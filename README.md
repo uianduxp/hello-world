@@ -1,2 +1,2 @@
 # hello-world
-The usual Hello World lol
+Trying out new things! Let's see how it goes!
